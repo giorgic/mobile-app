@@ -1,0 +1,448 @@
+.section_1{
+    max-width: 414px;
+    width: 100%;
+    height: 896px;
+    background: #ffffff;   
+    margin: 0 auto
+}
+
+.section_content {
+    background-image: url(../images/Rectangle\ 127.jpg);
+    width: 414px;
+    height: 557px;
+    padding-top: 522px;
+    
+}
+
+.discord {
+    width: 414px;
+    height: 374px;
+    padding-top: 33px;
+    background: #FFFFFF;
+    border-radius: 40px 40px 0px 0px;
+}
+
+.slide {
+    width: 32px;
+    height: 7.62px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.docs {
+    cursor: pointer;
+    height: 7.5px;
+    width: 7.5px;
+    background: #CFCFCF;
+    border-radius: 50%;
+    transition: .3s;
+}
+
+.docs:hover {
+    background-color: black;
+}
+
+.discord_text > h1 {
+    width: 233px;
+    margin: 0 auto;
+    margin-top: 41px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 38px;
+    text-align: center;
+    color: #121212;
+}
+
+.discord_p {
+    width: 260px;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: rgba(18, 18, 18, 0.6);
+}
+
+.exsplore {
+    width: 358px;
+    height: 75px;
+    background: #0DB7B7;
+    border-radius: 12px;
+    margin: 0 auto;
+    margin-top: 41px;
+    cursor: pointer;
+    transition: .3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.exsplore:hover {
+    background-color: #097d7d;
+}
+
+.exsplore > a {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/********* contact.html ***********/
+
+.scrine_2 {
+    width: 414px;
+    height: 896px;
+    background: #ffffff;
+    margin: 0 auto;
+    padding-top: 40px;
+    
+}
+
+.header {
+    width: 358px;
+    height: 46px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header_content {
+    width: 153px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_content > h1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 33px;
+    color: #121212;
+}
+
+.header_contact {
+    width: 113px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.serch {
+    width: 48px;
+    height: 46px;
+    background: #FFFFFF;
+    border: 1px solid #CFCFCF;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.serch:hover {
+    background-color: #CFCFCF;
+}
+
+.notification {
+    width: 48px;
+    height: 46px;
+    background: #FFFFFF;
+    border: 1px solid #CFCFCF;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.notification:hover {
+    background-color: #CFCFCF;
+}
+
+.categories > h2 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #121212;
+}
+
+.categories > a {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #848484;
+}
+
+.categories {
+    width: 364px;
+    margin: 0 auto;
+    margin-top: 49px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.frame {
+    width: 363px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 29px;
+}
+
+.art {
+    width: 61px;
+    height: 35px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #C6C6C6;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.art:hover {
+    background: #0DB7B7;
+}
+
+.art > a {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #121212;
+}
+
+.music {
+    width: 80px;
+    height: 35px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #C6C6C6;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.music > a {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #121212;
+}
+
+.music:hover {
+    background: #0DB7B7;
+}
+
+.games {
+    width: 87px;
+    height: 35px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #C6C6C6;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.games > a {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #121212;
+}
+
+.games:hover {
+    background: #0DB7B7;
+}
+
+
+.domains {
+    width: 99px;
+    height: 35px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #C6C6C6;
+    transition: .3s;
+    cursor: pointer;
+}
+.domains:hover {
+    background: #0DB7B7;
+}
+
+.domains > a {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    color: #121212;
+}
+
+.featured {
+    width: 374px;
+    margin: 0 auto;
+    margin-top: 49px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.featured > a{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #848484;
+
+}
+
+.featured > h1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #121212;
+}
+
+/********* card 1 ***********/
+
+.card_1 {
+    width: 326px;
+    height: 447px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+
+.card_1_content {
+    width: 326px;
+    height: 415px;
+    background: #EDEDED;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.12);
+    border-radius: 40px;
+}
+
+.card_1_price {
+    width: 290px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 21px;
+    display: flex;
+    justify-content: space-between;  
+    flex-direction: column; 
+}
+
+.card_1_text {
+    width: 293px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card_1_text > h4, h5  {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 19px;
+    color: #848484;
+}
+
+.text_1_meka {
+    width: 293px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.text_1_meka > h2, h3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color: #121212;
+}
+
+/*******place bid**********/
+.place {
+    width: 227px;
+    height: 58px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.place_bid {
+    width: 159px;
+    height: 58px;
+    background: #121212;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: .3s;
+    
+}
+
+.place_bid:hover{
+    background-color: #848484;
+}
+
+.place_bid > a{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+
+}
+
+.place_icon {
+    width: 58px;
+    height: 58px;
+    background: #0DB7B7;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.place_icon:hover{
+    background-color: #088080;
+}
+
+.place_icon > img {
+    cursor: pointer;
+}
+
